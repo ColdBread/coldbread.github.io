@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team/
 ---
-[Dan Tsk](https://github.com/dantsk)
-[Valeriy](https://github.com/sysliklol)
-[Symonenko](https://github.com/coldbread)
-[Nikiforov]
+1.[Dan Tsk](https://github.com/dantsk)
+2.[Valeriy](https://github.com/sysliklol)
+3.[Symonenko](https://github.com/coldbread)
+4.Nikiforov
