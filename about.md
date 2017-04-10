@@ -8,7 +8,7 @@ Information about our project
 
 ___
 
-Our project is...
+Our project is a brand new audition software for small business
 
 ### Contact us
 
