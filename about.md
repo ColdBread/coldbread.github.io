@@ -10,6 +10,6 @@ ___
 
 Our project is...
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[vhtbestteam@gmail.com](mailto:vhtbestteam@gmail.com)
